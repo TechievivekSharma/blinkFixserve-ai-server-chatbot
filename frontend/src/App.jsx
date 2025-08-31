@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div style={{ padding: "20px" }}>
-      <h1>🤖 BlinkFixServe AI Helper bot...</h1>
+      <h1>🤖 BlinkFixServe AI Helper bot</h1>
 
       {/* user input box */}
       <input
